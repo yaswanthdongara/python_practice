@@ -1,0 +1,1 @@
+this program uses seek() and tell() for showing the usage of random access files.
