@@ -1,0 +1,1 @@
+Random Access Files : for accessing data randomly from a file we use 'seek()' and 'tell()'.
